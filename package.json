@@ -1,7 +1,7 @@
 {
-  "name": "redux-form",
+  "name": "@whoaa/redux-form",
   "version": "5.2.3",
-  "description": "A higher order component decorator for forms using Redux and React",
+  "description": "Frozen @5.2.3 -- A higher order component decorator for forms using Redux and React",
   "main": "./lib/index.js",
   "jsnext:main": "./src/index.js",
   "repository": {
