@@ -1,7 +1,7 @@
 {
-  "name": "redux-form",
+  "name": "@fictiv/redux-form",
   "version": "6.2.0",
-  "description": "A higher order component decorator for forms using Redux and React",
+  "description": "TEMPORARY FORK",
   "main": "./lib/index.js",
   "module": "./es/index.js",
   "jsnext:main": "./es/index.js",
